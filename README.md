@@ -2,6 +2,7 @@
 
 Copyright 2020 Torcea Octavian
 
+## Simularea unui playlist folosind o lista dublu inlantuita
 
 * `playlist.c`: Lista dublu inlantuita va reprezenta playlistul, iar nodurile vor
     avea rolul de a stoca date despre melodiile din playlist.
